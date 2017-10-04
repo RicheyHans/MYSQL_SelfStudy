@@ -1,5 +1,5 @@
 # [MYSQL] MYSQL_SelfStudy
-MYSQL queries and Basic Tutorial
+MYSQL queries and Basic Database Tutorial
 
 ---
 

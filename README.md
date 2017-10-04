@@ -12,3 +12,4 @@ MYSQL queries and Database Basic Tutorial
 #### 02. Search in the Table
 4. "SELECT * FROM"
 5. Refrence to the Table Structure
+6. How te Set Search Condition

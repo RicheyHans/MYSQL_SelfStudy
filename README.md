@@ -16,6 +16,6 @@ MYSQL queries and Database Basic Tutorial
 7. Multiple Conditions
 8. Search with Pattern Matching
 
-#### 03. Order and Operation
+#### 03. Order and Operation  
 9. ORDER BY
 10. Order by Plural Column Conditions

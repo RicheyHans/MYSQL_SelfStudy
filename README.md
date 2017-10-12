@@ -24,3 +24,12 @@ MYSQL queries and Basic Database Tutorial
 13. Operation of Character Values
 14. Operation of Date / Time
 15. How to Use CASE
+
+#### 04. Data insert, delete, Update
+16. "INSERT"
+17. "DELETE"
+18. "UPDATE"
+19. Physical Deletion / Logical Deletion
+
+#### 05. Count and Subquery
+20. "COUNT"

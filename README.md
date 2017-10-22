@@ -36,3 +36,4 @@ MYSQL queries and Basic Database Tutorial
 21. More syntax beyond "COUNT"
 22. "GROUP BY"
 23. Subquery
+24. Correlated Subquery

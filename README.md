@@ -33,3 +33,6 @@ MYSQL queries and Basic Database Tutorial
 
 #### 05. Count and Subquery
 20. "COUNT"
+21. More syntax beyond "COUNT"
+22. "GROUP BY"
+23. Subquery

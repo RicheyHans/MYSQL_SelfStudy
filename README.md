@@ -37,3 +37,5 @@ MYSQL queries and Basic Database Tutorial
 22. "GROUP BY"
 23. Subquery
 24. Correlated Subquery
+
+#### 06. Write / Delete of Database Object
